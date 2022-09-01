@@ -1,2 +1,2 @@
-#!/bin/bash
-chown -R --no-preserve-root [vincent][:[staff]] */ 
+#!/bin/user
+chown -R --no-preserve-root vincent:staff */
