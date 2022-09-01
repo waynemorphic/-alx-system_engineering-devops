@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:staff */
+chmod -R --no-preserve-root vincent:staff */
