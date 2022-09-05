@@ -1,2 +1,2 @@
 #!/bin/bash
-head | sort -M
+ls -tp |grep -v /$ | head
