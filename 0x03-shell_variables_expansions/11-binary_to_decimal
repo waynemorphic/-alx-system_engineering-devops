@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BINARY+0*10**1+0))
+echo $((BINARY+0))
